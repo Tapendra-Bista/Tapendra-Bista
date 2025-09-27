@@ -1,40 +1,36 @@
-<h2 align="center">Hi 👋! I'm Tapendra Bista, a Flutter Developer from Kathmandu, Nepal</h2>
+<h1 align="center">Hi 👋, I'm Tapendra Bista</h1>
+<h3 align="center">A Passionate Flutter Developer & Aspiring Data Scientist from Kathmandu, Nepal</h3>
 
 ---
 
+### 🚀 About Me  
+- 🔭 I’m currently working on **Flutter & Firebase projects**  
+- 🌱 Exploring **Backend Development with Node.js & MongoDB**  
+- 📊 Currently learning **Data Science & Machine Learning**  
+- 🎯 Future Goal: To become a **Data Scientist**  
+- 💬 Ask me about **Flutter, Dart, Firebase, Python**  
+- 📫 Reach me at: **tapendrabista01@gmail.com**  
+- ⚡ Fun fact: I love building **mobile apps that solve real problems**  
+
+---
+
+### 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,python,nodejs,mongodb,git,github" />
+</p>
+
+---
+### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tapendra-Bista&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://streak-stats.demolab.com?user=Tapendra-Bista&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tapendra-Bista&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="150" alt="languages graph" />
-</div>
-### 🏆 Most Used Languages
-<div align="left">
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" height="30" />
-  <img width="8"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="30" />
-  <img width="8"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="30" />
-  <img width="8"/>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="30" />
-  <img width="8"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="30" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Tapendra-Bista&show_icons=true&theme=tokyonight" alt="stats" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tapendra-Bista&theme=tokyonight" alt="streak" height="180"/>
 </div>
 
 ---
 
-### 🚀 Tech Stack
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo" />
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="dart logo" />
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo" />
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo" />
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo" />
+### 🌟 Most Used Languages
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tapendra-Bista&layout=compact&theme=tokyonight" alt="langs" />
 </div>
 
 ---
@@ -59,3 +55,9 @@
     <img src="https://img.shields.io/badge/Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="35" />
   </a>
 </div>
+
+
+---
+⭐️ From [Tapendra-Bista](https://github.com/Tapendra-Bista)
+
+---
