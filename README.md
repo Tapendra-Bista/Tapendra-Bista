@@ -4,7 +4,12 @@
 ---
 
 ### 🚀 About Me  
-<img align="right" height="180" src="assets/profile.png" alt="Tapendra Bista coding" />
+
+<img align="right" height="180"                                                     
+     src="assets/profile.png" 
+     alt="Tapendra Bista coding"                                                    
+     style="border-radius: 50%; border: 3px solid #00acee; padding: 3px;" />
+
 
 - 🔭 Currently working on **Flutter & Firebase projects**  
 - 🌱 Exploring **Backend Development with Node.js & MongoDB**  
@@ -24,12 +29,18 @@
 ---
 
 ### 📊 GitHub Stats
-<div align="center">
+
+<div align="center" style="display: flex; justify-content: center; gap: 30px;">
   <img src="https://github-readme-stats.vercel.app/api?username=Tapendra-Bista&show_icons=true&theme=tokyonight" alt="stats" height="180"/>
+
+
+
+  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tapendra-Bista&theme=tokyonight" alt="streak" height="180"/>
 </div>
 
----
+
+
 
 ### 🌟 Most Used Languages
 <div align="center">
@@ -60,3 +71,5 @@
 ---
 
 ⭐️ From [Tapendra-Bista](https://github.com/Tapendra-Bista)
+
+---
