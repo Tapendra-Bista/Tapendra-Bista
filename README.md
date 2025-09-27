@@ -4,13 +4,15 @@
 ---
 
 ### 🚀 About Me  
-- 🔭 I’m currently working on **Flutter & Firebase projects**  
+<img align="right" height="180" src="assets/profile.png" alt="Tapendra Bista coding" />
+
+- 🔭 Currently working on **Flutter & Firebase projects**  
 - 🌱 Exploring **Backend Development with Node.js & MongoDB**  
-- 📊 Currently learning **Data Science & Machine Learning**  
-- 🎯 Future Goal: To become a **Data Scientist**  
+- 📊 Learning **Data Science & Machine Learning**  
+- 🎯 Goal: To become a **Data Scientist**  
 - 💬 Ask me about **Flutter, Dart, Firebase, Python**  
 - 📫 Reach me at: **tapendrabista01@gmail.com**  
-- ⚡ Fun fact: I love building **mobile apps that solve real problems**  
+- ⚡ Fun fact: I enjoy building **mobile apps that solve real problems**  
 
 ---
 
@@ -20,6 +22,7 @@
 </p>
 
 ---
+
 ### 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Tapendra-Bista&show_icons=true&theme=tokyonight" alt="stats" height="180"/>
@@ -35,8 +38,6 @@
 
 ---
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" alt="coding gif" />
-
 ### 📫 Connect with Me
 <div align="left">
   <a href="mailto:tapendrabista01@gmail.com" target="_blank">
@@ -51,13 +52,11 @@
   <a href="https://www.facebook.com/profile.php?id=100073138596181&ref=_ig_profile_ac" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="35" />
   </a>
-  <a href="https://wa.me/9779768774003" target="_blank">
+  <a href="https://wa.me/+9779768774003" target="_blank">
     <img src="https://img.shields.io/badge/Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="35" />
   </a>
 </div>
 
-
 ---
+
 ⭐️ From [Tapendra-Bista](https://github.com/Tapendra-Bista)
-
----
