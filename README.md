@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tapendra Bista</h1>
-<h3 align="center">A Passionate Flutter Developer & Aspiring Data Scientist from Kathmandu, Nepal</h3>
+<h3 align="center">A Passionate Flutter Developer from Kathmandu, Nepal</h3>
 
 ---
 
@@ -12,10 +12,8 @@
 
 
 - 🔭 Currently working on **Flutter & Firebase projects**  
-- 🌱 Exploring **Backend Development with Node.js & MongoDB**  
-- 📊 Learning **Data Science & Machine Learning**  
-- 🎯 Goal: To become a **Data Scientist**  
-- 💬 Ask me about **Flutter, Dart, Firebase, Python**  
+- 🎯 Goal: To become a **Pro Flutter Develop**  
+- 💬 Ask me about **Flutter, Dart, Firebase**  
 - 📫 Reach me at: **tapendrabista01@gmail.com**  
 - ⚡ Fun fact: I enjoy building **mobile apps that solve real problems**  
 
